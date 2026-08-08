@@ -1,4 +1,4 @@
-<h1 align="center">CROWN</h1>
+<h1 align="center">Cheer</h1>
 
 <p align="center">
   Creator donations with no middleman between the donor's wallet and the recipient.<br>
